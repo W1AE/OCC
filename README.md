@@ -19,18 +19,15 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ## Downloads:
 ### MNIST-2
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
-* Fine-tuned ResNet-50 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
-* Fine-tuned InceptionNet-v3 features: [Incv3_S15](https://drive.google.com/open?id=1ku7huEzJ8I99qYKT5gtCG803puMz9kxe)
+* MNIST-2 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
 * Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
 ### NORB-2
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
-* Fine-tuned ResNet-50 features: [Res50_C101](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
-* Fine-tuned InceptionNet-v3 features: [Incv3_C101](https://drive.google.com/open?id=1pFeL9kC8vs9ljmB4JYOxTznSj0MxM6DF)
+* NORB-2 features: [Res50_C101](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
 * Source code for Caltech-101: The file will be made public after acceptance of the manuscript (if decided so).
 ### Place-D
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
-* Fine-tuned ResNet-50 features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
-* Fine-tuned InceptionNet-v3 features: [Incv3_C256](https://drive.google.com/open?id=1XIHncWSHRH97TDtxCj2-QvR2KjubMXNh)
+* Place-D features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
 
 ## Dependancies
