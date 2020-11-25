@@ -16,7 +16,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 
 [1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 
-## Downloads:
+## Downloads of Visual Image Classification:
 ### MNIST-2
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 * MNIST-2 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
@@ -29,6 +29,13 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
 * Place-D features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
+
+## Downloads of Food Identification & Rumor Detection:
+### Food identification
+* Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
+### Rumor detection
+* Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](http://yann.lecun.com/exdb/mnist/)
+#The rumor dataset is our newly collected dataset, here we only show part of the dataset. After acceptance of the manuscript (if decided so), the whole dataset will be made public.
 
 ## Dependancies
 * Matlab version 2020a,
