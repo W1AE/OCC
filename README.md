@@ -33,6 +33,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 * Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
 ### Rumor detection (Extended Domain)
 * Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](http://yann.lecun.com/exdb/mnist/)
+
 #The rumor dataset is our newly collected dataset, here we only show part of the dataset. After acceptance of the manuscript (if decided so), the whole dataset will be made public.
 
 ## Dependancies
