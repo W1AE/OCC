@@ -19,15 +19,15 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ## Downloads:
 ### MNIST-2 (Visual Image Classification Domain)
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
-* MNIST-2 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
+* MNIST-2 features: [MNIST-2](https://github.com/W1AE/OCC/blob/main/M_2.mat)
 * Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
 ### NORB-2 (Visual Image Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
-* NORB-2 features: [Res50_C101](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
+* NORB-2 features: [NORB-2](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
 * Source code for Caltech-101: The file will be made public after acceptance of the manuscript (if decided so).
 ### Place-D (Visual Image Classification Domain)
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
-* Place-D features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
+* Place-D features: [PLACE-D](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
 ### Food identification (Extended Domain)
 * Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
