@@ -35,3 +35,10 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ## Dependancies
 * Matlab version 2020a,
 * A workstation with a 256GB memory and an E5-2650 processor.
+
+## Reproduce the Experimental Results
+
+In "Demo0.zip", run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_RL.m" for SGD plus random convolutional learning, "main_ResNet_FR.m" for Yang's retraining strategy, or "main_ResNet_FR_RL.m" for the proposed fast retraining algorithm (random SGD plus batch-by-batch MP).
+
+#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
+
