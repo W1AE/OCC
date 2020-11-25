@@ -20,15 +20,15 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ### MNIST-2 (Visual Image Classification Domain)
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 * MNIST-2 features: [MNIST-2](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing)
-* Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
+* Source code for MNIST-2
 ### NORB-2 (Visual Image Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
 * NORB-2 features: [NORB-2](https://drive.google.com/file/d/11CNibSMWIP77VYPBiN9-GEmDQT-jTWnl/view?usp=sharing)
-* Source code for Caltech-101: The file will be made public after acceptance of the manuscript (if decided so).
+* Source code for NORB-2
 ### Place-D (Visual Image Classification Domain)
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
 * Place-D features: [PLACE-D](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
-* Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
+* Source code for Place-D
 ### Food identification (Extended Domain)
 * Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
 ### Rumor detection (Extended Domain)
