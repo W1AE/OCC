@@ -31,10 +31,12 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 * Source code for Place-D: [PLACE-D](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
 ### Food identification (Extended Domain)
 * Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
+* Food+ features: [FOOD+]()
+* Source code for Food+: [FOOD+](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
 ### Rumor detection (Extended Domain)
 * Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
 
-#The rumor dataset is our newly collected dataset, here we only show part of the dataset. After acceptance of the manuscript (if decided so), the whole dataset will be made public.
+#The rumor dataset is our newly collected dataset, here we only show part of the dataset. After acceptance of the manuscript (if decided so), the whole dataset will be released.
 
 ## Dependancies
 * Matlab version 2020a,
