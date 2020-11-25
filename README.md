@@ -14,7 +14,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 
 ## Related Work:
 
-[1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions On SMC: Systems.
+[1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 
 ## Downloads:
 ### Scene-15
