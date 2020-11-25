@@ -10,7 +10,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 
 ## Learning Structure:
 
-<img src="https://github.com/W1AE/OCC/blob/main/F.jpg" width="950" height="430" />
+<img src="https://github.com/W1AE/OCC/blob/main/F.jpg" width="1050" height="430" />
 
 ## Related Work:
 
