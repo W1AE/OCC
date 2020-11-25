@@ -17,17 +17,18 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 [1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 
 ## Downloads:
-### Scene-15
+### MNIST-2
+* MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 * Fine-tuned ResNet-50 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
 * Fine-tuned InceptionNet-v3 features: [Incv3_S15](https://drive.google.com/open?id=1ku7huEzJ8I99qYKT5gtCG803puMz9kxe)
 * Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
-### Caltech-101
-* Caltech-101 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
+### NORB-2
+* NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
 * Fine-tuned ResNet-50 features: [Res50_C101](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
 * Fine-tuned InceptionNet-v3 features: [Incv3_C101](https://drive.google.com/open?id=1pFeL9kC8vs9ljmB4JYOxTznSj0MxM6DF)
 * Source code for Caltech-101: The file will be made public after acceptance of the manuscript (if decided so).
-### Caltech-256
-* Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
+### Place-D
+* Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
 * Fine-tuned ResNet-50 features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Fine-tuned InceptionNet-v3 features: [Incv3_C256](https://drive.google.com/open?id=1XIHncWSHRH97TDtxCj2-QvR2KjubMXNh)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
