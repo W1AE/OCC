@@ -14,7 +14,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 
 ## Related Work:
 
-[1] Zhang, W., Wu, J., & Yang, Y. (2020). Wi-HSNN: A Subnetwork-based Encoding Structure for Dimension Reduction and Food Classification via Harnessing Multi-CNN Model High-level Features. Neurocomputing.
+[1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions On SMC: Systems.
 
 ## Downloads:
 ### Scene-15
@@ -31,3 +31,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 * Fine-tuned ResNet-50 features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
 * Fine-tuned InceptionNet-v3 features: [Incv3_C256](https://drive.google.com/open?id=1XIHncWSHRH97TDtxCj2-QvR2KjubMXNh)
 * Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
+
+## Dependancies
+* Matlab version 2020a,
+* A workstation with a 256GB memory and an E5-2650 processor.
