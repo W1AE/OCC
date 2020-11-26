@@ -19,7 +19,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ## Downloads:
 ### MNIST-2 (Visual Image Classification Domain)
 * MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
-* MNIST-2 features: [MNIST-2](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) or [MNIST-2](https://github.com/W1AE/OCC/blob/main/M_2.mat)
+* MNIST-2 features: [MNIST-2 (GoogLe Drive)](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) or [MNIST-2 (GitHub)](https://github.com/W1AE/OCC/blob/main/M_2.mat)
 * Source code for MNIST-2: [SC-MNIST-2](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing)
 ### NORB-2 (Visual Image Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
