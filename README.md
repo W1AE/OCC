@@ -24,7 +24,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ### NORB-2 (Visual Image Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
 * NORB-2 features: [NORB-2 (GoogLe Drive)](https://drive.google.com/file/d/11CNibSMWIP77VYPBiN9-GEmDQT-jTWnl/view?usp=sharing)
-* Source code for NORB-2: [SC-NORB-2](https://github.com/W1AE/OCC/blob/main/Demo_NORB.zip)
+* Source code for NORB-2: [SC-NORB-2](https://github.com/W1AE/OCC/blob/main/Demo_NORB_1.zip)
 ### Place-D (Visual Image Classification Domain)
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
 * Place-D features: [PLACE-D (GoogLe Drive)](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
