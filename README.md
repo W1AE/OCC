@@ -28,11 +28,11 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ### Place-D (Visual Image Classification Domain)
 * Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
 * Place-D features: [PLACE-D (GoogLe Drive)](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
-* Source code for Place-D: [SC-PLACE-D](https://github.com/W1AE/OCC/blob/main/Demo_Place.zip)
+* Source code for Place-D: [SC-PLACE-D](https://github.com/W1AE/OCC/blob/main/Demo_Place_1.zip)
 ### Food identification (Extended Domain)
 * Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
 * Food+ features: [FOOD+ (GoogLe Drive)](https://drive.google.com/file/d/1UfG5LUW8CtTB7fc4sPZhMW6eHiV32opc/view?usp=sharing)
-* Source code for Food+: [SC-FOOD+](https://github.com/W1AE/OCC/blob/main/Demo_Food.zip)
+* Source code for Food+: [SC-FOOD+](https://github.com/W1AE/OCC/blob/main/Demo_Food_1.zip)
 ### Rumor detection (Extended Domain)
 * Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
 
