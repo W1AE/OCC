@@ -24,7 +24,7 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ### CIFAR10-Airplane (Visual Image Classification Domain)
 * CIFAR10-Airplane dataset: [CIFAR10-Airplane DATASET](https://www.cs.toronto.edu/~kriz/cifar.html)
 * CIFAR10-Airplane features: [CIFAR10-Airplane (OneDrive)](https://uwin365-my.sharepoint.com/:u:/g/personal/zhang1lq_uwindsor_ca/EQNy2lSG2lBMhjbQ38uLvRYBEol64kTGhyz3Pec8qs2rcw?e=vQGm0H)
-* Source code for CIFAR10-Airplane: [SC-CIFAR10-Airplane](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
+* Source code for CIFAR10-Airplane: [SC-CIFAR10-Airplane](https://github.com/W1AE/OCC/blob/main/Demo_CIFAR10_Airplane.zip)
 ### NORB-2 (Visual Image Classification Domain)
 * NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
 * NORB-2 features: [NORB-2 (GoogLe Drive)](https://drive.google.com/file/d/11CNibSMWIP77VYPBiN9-GEmDQT-jTWnl/view?usp=sharing)
