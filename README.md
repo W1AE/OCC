@@ -14,29 +14,12 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 
 ## Related Work:
 
-[1] Zhang, W. (2020). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Cybernetics.
+[1] Zhang, W. (2022). One-Class Classification Using Hierarchical Subnetwork-based Structure. IEEE Transactions on Cybernetics.
 
 ## Downloads:
-### MNIST-2 (Visual Image Classification Domain)
-* MNIST dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
-* MNIST-2 features: [MNIST-2 (GoogLe Drive)](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) or [MNIST-2 (GitHub)](https://github.com/W1AE/OCC/blob/main/M_2.mat)
-* Source code for MNIST-2: [SC-MNIST-2](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
-### CIFAR10-Airplane (Visual Image Classification Domain)
-* CIFAR10-Airplane dataset: [CIFAR10-Airplane DATASET](https://www.cs.toronto.edu/~kriz/cifar.html)
-* CIFAR10-Airplane features: [CIFAR10-Airplane (OneDrive)](https://uwin365-my.sharepoint.com/:u:/g/personal/zhang1lq_uwindsor_ca/EQNy2lSG2lBMhjbQ38uLvRYBEol64kTGhyz3Pec8qs2rcw?e=vQGm0H)
-* Source code for CIFAR10-Airplane: [SC-CIFAR10-Airplane](https://github.com/W1AE/OCC/blob/main/Demo_CIFAR10_Airplane.zip)
-### NORB-2 (Visual Image Classification Domain)
-* NORB dataset: [NORB DATASET](https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/)
-* NORB-2 features: [NORB-2 (GoogLe Drive)](https://drive.google.com/file/d/11CNibSMWIP77VYPBiN9-GEmDQT-jTWnl/view?usp=sharing)
-* Source code for NORB-2: [SC-NORB-2](https://github.com/W1AE/OCC/blob/main/Demo_NORB_1.zip)
-### Place-D (Visual Image Classification Domain)
-* Place-365 dataset: [PLACE DATASET](http://places2.csail.mit.edu/)
-* Place-D features: [PLACE-D (GoogLe Drive)](https://drive.google.com/file/d/18eULO1viweE_x5hOetlavGshYggIigVd/view?usp=sharing)
-* Source code for Place-D: [SC-PLACE-D](https://github.com/W1AE/OCC/blob/main/Demo_Place_1.zip)
-### Food identification (Extended Domain)
-* Food-251 dataset: [FOOD DATASET](https://github.com/karansikka1/iFood_2019)
-* Food+ features: [FOOD+ (GoogLe Drive)](https://drive.google.com/file/d/1UfG5LUW8CtTB7fc4sPZhMW6eHiV32opc/view?usp=sharing)
-* Source code for Food+: [SC-FOOD+](https://github.com/W1AE/OCC/blob/main/Demo_Food_1.zip)
+
+#The source code will be made public soon.
+
 ### Rumor detection (Extended Domain)
 * Rumor dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
 
@@ -49,6 +32,4 @@ The Multilayer one-class classification (OCC) algorithms have been widely used f
 ## Reproduce the Experimental Results
 
 Run script "Coding_OCSNN.m" for original OC-SNN algorithm, run script "Coding_MCOCSNN.m" for the improved MCOC-SNN algorithm.
-
-#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
 
